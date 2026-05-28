@@ -115,5 +115,5 @@ Stock_Analysis/
 ## Author
 
 **Govardhan Ingle**  
-B.Tech, IIT Gandhinagar | WorldQuant BRAIN Gold Level  
+B.Tech, IIT Gandhinagar \ 
 [LinkedIn](#) · [GitHub](#) · [Tableau](https://public.tableau.com/app/profile/govardhan.ingle)
